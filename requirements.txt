@@ -1,2 +1,5 @@
 python-telegram-bot
 requests
+bs4
+pyarabic.number
+num2words
