@@ -40,6 +40,7 @@ keyboards/
 
 📬 Contact
 For updates and more projects, follow Binary Team on Instagram.
+https://www.instagram.com/binary_team_10
 
 
 
